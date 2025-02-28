@@ -72,6 +72,9 @@ CSE232-Computer-Networking/
 3. **Assignment 3**: Analyze the firewall rules and answer the questions.
 4. **Assignment 4**: Use ns-3 to run the simulation and analyze outputs.
 
+## Contributors
+- Subham (subham22510@iiitd.ac.in)
+
 ## License
 Refer to the `LICENSE` file for licensing details.
 
